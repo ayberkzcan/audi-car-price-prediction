@@ -6,10 +6,10 @@ This repository contains the Audi car dataset for an ongoing machine learning pr
 
 What's next:
 
-Exploratory Data Analysis (EDA)
+-Exploratory Data Analysis (EDA)
 
-Feature Engineering
+-Feature Engineering
 
-Building and evaluating ML models
+-Building and evaluating ML models
 
 This is a learning project and will be updated regularly as work progresses.
